@@ -6,7 +6,7 @@ A data set containing information about Fast Food items (Chicken, burgers etc)fr
 The Data is cleaned and reorganized
 
 ## 2.Filtering
-The table can be filtered by applyinh various filters using the arrows next to the Column names. For eg : If you want to view activity by Manager Joao Silva, click the drop down menu on Manager and select only Joao Silva.
+The table can be filtered by applying various filters using the arrows next to the Column names. For eg : If you want to view activity by Manager Joao Silva, click the drop down menu on Manager and select only Joao Silva.
 
 ## 3. Descriptive Analysis
 Descriptive analysis is performed on selected elements. For instance:
