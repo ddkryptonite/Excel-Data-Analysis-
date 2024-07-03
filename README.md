@@ -11,7 +11,7 @@ The table can be filtered by applying various filters using the arrows next to t
 ## 3. Descriptive Analysis
 Descriptive analysis is performed on selected elements. For instance:
 - mean of price shows the average price for the entire table.
-- Mode shows the item sold the most, which was burgers at 12.99 and fro the analysis on quantity it was sold 201 times.
+- Mode shows the item sold the most, which was burgers at 12.99 and from the analysis on quantity it was sold 201 times.
 
 ## 4. Chart
 A simple box and whisker plot was made from the table to show the pricing distribution by manager. This is essential because from the chart, all the boxes look similar which means theres a fairly uniform distribution of the pricing in all locations, since pricing will be determined from Headquarters.
